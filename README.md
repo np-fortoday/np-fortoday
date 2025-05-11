@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @np-fortoday
 - 👀 I’m interested in product analytics 
-- 🌱 I’m currently learning pithon and BI-platforms
+- 🌱 I’m currently learning python and BI-platforms
 - 💞️ I’m looking to collaborate on corporations 
 - 📫 How to reach me in tg: npfortoday
 
